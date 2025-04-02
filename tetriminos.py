@@ -1,5 +1,5 @@
 from constants import COLORS
-
+import random
 # Tetrimino shapes
 SHAPES = [
     [[1, 1, 1, 1]],  # I
